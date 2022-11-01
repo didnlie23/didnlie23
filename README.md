@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **didnlie23/didnlie23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/didnlie23?ext=heatmap)](https://leetcode.com/didnlie23)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/didnlie23?ext=activty;font=patrick_hand)](https://leetcode.com/didnlie23)
