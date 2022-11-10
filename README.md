@@ -1,4 +1,3 @@
-### Hi!
 
 <!--
 **didnlie23/didnlie23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/didnlie23?font=patrick_hand)](https://leetcode.com/didnlie23)
+<div align="center">
+  
+  ## Hello! 안녕하세요! didnlie23 입니다😄
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didnlie23)](https://solved.ac/didnlie23)
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/didnlie23?font=patrick_hand)](https://leetcode.com/didnlie23)
+</div>
