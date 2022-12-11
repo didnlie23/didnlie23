@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  ## Hello! 안녕하세요! didnlie23 입니다😄
+  ## Developer trying to be meticulous... It's me :)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didnlie23)](https://solved.ac/didnlie23)
 
