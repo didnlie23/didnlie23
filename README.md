@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  
-  ## Developer trying to be meticulous... It's me :)
-  
+<div align="center">  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didnlie23)](https://solved.ac/didnlie23)
 
   [![Leetcode Stats](https://leetcard.jacoblin.cool/didnlie23?font=patrick_hand)](https://leetcode.com/didnlie23)
